@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello friends 👋
 
-<!--
-**phantomramen/phantomramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danny, I'm a Front-End Engineer based out of Wales, United Kingdom.
 
-Here are some ideas to get you started:
+**Currently:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Workflows team @ [Primer.io](https://primer.io/)
+- 📚 Learning about Algorithms & GraphQL in my free time
+
+**Personal Projects:**
+
+A few applications I have cooking to demonstrate and improve my current skillset.
+
+- 🤖 Dashboy - A toy dashboard application
+- 🍱 Bento Design System - A component library using [Unitled UI](https://www.untitledui.com/) design specifications.
