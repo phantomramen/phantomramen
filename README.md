@@ -2,11 +2,6 @@
 
 I'm Danny, I'm a Front-End Engineer based out of Wales, United Kingdom.
 
-**Currently:**
-
-- 💼 Workflows team @ [Primer.io](https://primer.io/)
-- 📚 Learning about Algorithms & GraphQL in my free time
-
 **A few personal projects I have cooking:**
 
 - 🤖 Dashboy - A toy dashboard application
